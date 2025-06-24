@@ -1,0 +1,2 @@
+D:/dento/codecanyon-yzrCZEFb-6valley-ecommerce-delivery-man-mobile-app/Delivery Man App/android/app/.cxx/Debug/3ll4e525/x86/CMakeFiles/edit_cache.dir
+D:/dento/codecanyon-yzrCZEFb-6valley-ecommerce-delivery-man-mobile-app/Delivery Man App/android/app/.cxx/Debug/3ll4e525/x86/CMakeFiles/rebuild_cache.dir

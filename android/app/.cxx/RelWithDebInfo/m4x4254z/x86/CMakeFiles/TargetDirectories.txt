@@ -1,0 +1,2 @@
+D:/dento/Deliveryman app/android/app/.cxx/RelWithDebInfo/m4x4254z/x86/CMakeFiles/edit_cache.dir
+D:/dento/Deliveryman app/android/app/.cxx/RelWithDebInfo/m4x4254z/x86/CMakeFiles/rebuild_cache.dir
